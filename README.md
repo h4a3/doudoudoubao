@@ -1,0 +1,2 @@
+# doudoudoubao
+能添加多个dou包账号，并用每日的免费生视频名额生成视频。如果有bug可以让ai agent帮你修一下
